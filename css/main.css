@@ -705,7 +705,7 @@ a:focus {
   padding-bottom: 2rem;
 } 
 
-.blog-post .container {
+.blog-posts {
   border-radius: 1.5rem;
   border: 2px solid var(--accent);
   padding: 2rem;
